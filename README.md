@@ -1,2 +1,2 @@
-##### Strmr.NET
+# Strmr.NET
 Strmr.NET is a .NET Standard 2.0 library that aims to be a relatively high-performance, low allocation real-time media streaming library. The initial goals will be to create a functional RTSP client that can handle RTP packets over a transport such as TCP. At this stage, the actual media decoding will not be handled by this library, although it is possible in the future we may add platform specific extension points for enabling this sort of functionality.
