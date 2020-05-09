@@ -1,0 +1,17 @@
+<Project>
+  <Import Project="Versions.props" />
+  <Import Project="DependencyVersions.props" />
+
+  <!-- Common package properties. -->
+  <PropertyGroup>
+    <Company>Bold Web Services, Inc.</Company>
+    <Copyright>Copyright $(Company). All rights reserved.</Copyright>
+    <Authors>$(Company)</Authors>
+    <IncludeSymbols>true</IncludeSymbols>
+  </PropertyGroup>
+
+  <PropertyGroup>
+    <LangVersion>latest</LangVersion>
+  </PropertyGroup>
+
+</Project>
