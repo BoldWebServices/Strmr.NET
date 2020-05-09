@@ -1,0 +1,16 @@
+<!--
+  This file defines the versions of external dependencies used by the product.
+  This file might be updated by automation.
+-->
+<Project>
+  <!-- These versions should be updated by automation. -->
+  <PropertyGroup Label="Automated">
+  </PropertyGroup>
+  <!-- These versions are not managed by automation. -->
+  <PropertyGroup Label="Pinned">
+    <!-- 3rd party dependencies -->
+    <MicrosoftNetTestSdkPackageVersion>16.6.1</MicrosoftNetTestSdkPackageVersion>
+    <XunitPackageVersion>2.4.1</XunitPackageVersion>
+    <XunitRunnerVisualStudioPackageVersion>2.4.1</XunitRunnerVisualStudioPackageVersion>
+  </PropertyGroup>
+</Project>

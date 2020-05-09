@@ -1,0 +1,11 @@
+<!--
+  This file defines the versions of the assemblies that constitute this project.
+  This file might be updated by automation.
+-->
+<Project>
+  <!-- These versions should be updated by automation. -->
+  <PropertyGroup Label="Automated">
+    <VersionPrefix>0.1</VersionPrefix>
+    <VersionSuffix>prerelease</VersionSuffix>
+  </PropertyGroup>
+</Project>
